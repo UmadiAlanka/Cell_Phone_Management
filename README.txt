@@ -48,4 +48,4 @@ Design Notes
 --------------------------------
 Author
 --------------------------------
-Name: K.DUmadi Alanka Munasinghe
+Name: K.D Umadi Alanka Munasinghe
